@@ -1,0 +1,13 @@
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\HappinessChecker.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\Java.Interop.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\Microsoft.CSharp.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\Mono.Android.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\mscorlib.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\System.Core.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\System.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\System.Net.Http.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\System.Xml.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\Mono.CSharp.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\Mono.Security.dll
+C:\Users\SAIS\Desktop\App\HappinessChecker\HappinessChecker\obj\Release\android\assets\System.ServiceModel.Internals.dll
